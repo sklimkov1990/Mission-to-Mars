@@ -1,0 +1,28 @@
+> db.mars.find()
+{ "_id" : ObjectId("5f60638a52820a37b95ecc12"), "news_title" : "My Culture, My V
+oice", "news_paragraph" : "In honor of Hispanic Heritage Month, Christina Hernan
+dez, an instrument engineer on the Mars 2020 mission, talks about her childhood
+and journey to NASA.", "featured_image" : "https://www.jpl.nasa.gov/spaceimages/
+images/largesize/PIA18904_hires.jpg", "facts" : "<table border=\"1\" class=\"dat
+aframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n
+    <th>Mars</th>\n    </tr>\n    <tr>\n      <th>Description</th>\n      <th></
+th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>Equatorial Diameter:<
+/th>\n      <td>6,792 km</td>\n    </tr>\n    <tr>\n      <th>Polar Diameter:</t
+h>\n      <td>6,752 km</td>\n    </tr>\n    <tr>\n      <th>Mass:</th>\n      <t
+d>6.39 × 10^23 kg (0.11 Earths)</td>\n    </tr>\n    <tr>\n      <th>Moons:</th>
+\n      <td>2 (Phobos &amp; Deimos)</td>\n    </tr>\n    <tr>\n      <th>Orbit D
+istance:</th>\n      <td>227,943,824 km (1.38 AU)</td>\n    </tr>\n    <tr>\n
+   <th>Orbit Period:</th>\n      <td>687 days (1.9 years)</td>\n    </tr>\n    <
+tr>\n      <th>Surface Temperature:</th>\n      <td>-87 to -5 °C</td>\n    </tr>
+\n    <tr>\n      <th>First Record:</th>\n      <td>2nd millennium BC</td>\n
+</tr>\n    <tr>\n      <th>Recorded By:</th>\n      <td>Egyptian astronomers</td
+>\n    </tr>\n  </tbody>\n</table>", "last_modified" : ISODate("2020-09-16T18:03
+:03.055Z"), "hemispheres" : [ { "img_url" : "https://astropedia.astrogeology.usg
+s.gov/download/Mars/Viking/cerberus_enhanced.tif/full.jpg", "title" : "Cerberus
+Hemisphere Enhanced" }, { "img_url" : "https://astropedia.astrogeology.usgs.gov/
+download/Mars/Viking/schiaparelli_enhanced.tif/full.jpg", "title" : "Schiaparell
+i Hemisphere Enhanced" }, { "img_url" : "https://astropedia.astrogeology.usgs.go
+v/download/Mars/Viking/syrtis_major_enhanced.tif/full.jpg", "title" : "Syrtis Ma
+jor Hemisphere Enhanced" }, { "img_url" : "https://astropedia.astrogeology.usgs.
+gov/download/Mars/Viking/valles_marineris_enhanced.tif/full.jpg", "title" : "Val
+les Marineris Hemisphere Enhanced" } ] }
